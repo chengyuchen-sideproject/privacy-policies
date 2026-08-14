@@ -7,6 +7,8 @@ and the users can actually read them.
 | App | Store | Policy |
 | --- | --- | --- |
 | NotiPeek | Google Play (`com.notipeek`) | [notipeek/PRIVACY.md](notipeek/PRIVACY.md) |
+| 說錢 SpeakCoin | Google Play (`com.speakcoin`) | [speakcoin/PRIVACY.md](speakcoin/PRIVACY.md) |
+| 說事 SpeakTask | Google Play (`com.speaktask`) | [speaktask/PRIVACY.md](speaktask/PRIVACY.md) |
 
 Each policy states the date it was last updated. Changes are published here.
 
@@ -22,6 +24,8 @@ Questions about any policy: open an issue in this repository.
 | App | 商店 | 政策 |
 | --- | --- | --- |
 | NotiPeek | Google Play (`com.notipeek`) | [notipeek/PRIVACY.md](notipeek/PRIVACY.md) |
+| 說錢 SpeakCoin | Google Play (`com.speakcoin`) | [speakcoin/PRIVACY.md](speakcoin/PRIVACY.md) |
+| 說事 SpeakTask | Google Play (`com.speaktask`) | [speaktask/PRIVACY.md](speaktask/PRIVACY.md) |
 
 每份政策都標註最後更新日期，日後變更也會發布在這裡。
 
